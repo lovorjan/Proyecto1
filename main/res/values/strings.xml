@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MisTratamientos</string>
+    <string-array name="abreviaturas">
+        <item> </item>
+        <item>Pediatria (P)</item>
+        <item>Dentista (D)</item>
+        <item>Medicina General (M)</item>
+        <item>Laboratorio (L)</item>
+        <item>Donación de sangre (S)</item>
+        <item>Oftalmologia (O)</item>
+        <item>Aplicación de Inyección (A)</item>
+    </string-array>
+</resources>
