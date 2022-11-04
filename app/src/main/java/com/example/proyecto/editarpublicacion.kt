@@ -1,4 +1,4 @@
-package com.example.mistratamientos
+package com.example.proyecto
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,7 +8,7 @@ import android.view.MenuItem
 import android.widget.ImageView
 import android.widget.TextView
 import java.util.regex.Pattern
-
+/*
 class EditarTratamientoActivity : AppCompatActivity() {
 
 
@@ -87,3 +87,5 @@ class EditarTratamientoActivity : AppCompatActivity() {
 
 
 }
+
+ */
